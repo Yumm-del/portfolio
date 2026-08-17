@@ -8,11 +8,11 @@
 
 ## 🧭 项目索引
 
-### 1️⃣ SHEIN 首页产品拆解（求职中 · 2026-08）
+### 1️⃣ SHEIN 首页产品拆解（2026-08）
 
-> 面向 SHEIN 首页产品实习生岗位的针对性研究：信息架构、人群分层、导购路径、资源位管理、游戏化玩法、AI 应用矩阵。
+> 电商 C 端首页的系统性拆解：信息架构、人群分层、导购路径、资源位管理、游戏化玩法、AI 应用矩阵。
 
-📄 [阅读拆解报告](shein-homepage-analysis/SHEIN首页产品拆解报告.md) · [项目说明](shein-homepage-analysis/README.md)
+📄 [阅读拆解报告](https://github.com/Yumm-del/shein-homepage-analysis) · [报告原文](https://github.com/Yumm-del/shein-homepage-analysis/blob/master/SHEIN首页产品拆解报告.md)
 
 ### 2️⃣ AI 产品深度体验报告（2026 上半年）
 
