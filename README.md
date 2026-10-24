@@ -46,9 +46,9 @@
 
 📄 [阅读拆解报告](https://github.com/Yumm-del/shein-homepage-analysis) · [报告原文](https://github.com/Yumm-del/shein-homepage-analysis/blob/master/SHEIN首页产品拆解报告.md)
 
-### AI 产品深度体验报告（2026 上半年）
+### AI 产品深度体验报告（2026）
 
-> 独立完成 5 款主流 AI 产品的深度体验拆解（1500-3000 字/篇），覆盖国内 AI 赛道全部主流路线：技术开源（DeepSeek）、流量生态（豆包）、企业嵌入（通义千问）、办公连接（腾讯元宝）、功能差异化（Kimi）。
+> 独立完成 8 款主流 AI 产品的深度体验拆解（约 2500-4000 字/篇），覆盖国内 AI 赛道的主流路线——技术开源（DeepSeek）、流量生态（豆包）、企业嵌入（通义千问）、办公连接（腾讯元宝）、功能差异化（Kimi），并横向对比全球 Agent 产品——通用任务平台（ChatGPT）、终端工程 Agent（Claude Code）、云端并行 Agent（Codex）。
 
 📚 [进入 AI 体验报告目录](ai-product-reviews/README.md)
 
@@ -59,6 +59,9 @@
 | 通义千问 | 企业嵌入派 | B 端嵌入策略的代价是 C 端品牌认知弱 |
 | 腾讯元宝 | 连接办公派 | Context Acquisition Cost——AI 产品的第一指标 |
 | Kimi | 功能差异化派 | 比谁更「窄」可能比谁更「全」更安全 |
+| ChatGPT | 通用 Agent 平台派 | 从「回答问题」到「完成任务」，护城河是分发、生态与信任设计 |
+| Claude Code | 终端 Agent 派 | 把模型能力封装成可复用的工程工作流，定制层才是壁垒 |
+| Codex | 云端并行 Agent 派 | 把写代码变成可委派、可并行的任务队列 |
 
 ### tarot-cli · 命令行塔罗牌工具
 
